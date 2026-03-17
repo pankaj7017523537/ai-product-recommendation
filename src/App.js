@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import SearchBox from "./components/SearchBox";
 import ProductList from "./components/ProductList";
 import Recommendation from "./components/Recommendation";
